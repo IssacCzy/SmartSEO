@@ -25,5 +25,8 @@ SmartSEO 营销工具包是基于Python和EEL技术实现
 ```
 
 #### 免安装，下载即用
+
+![](https://img2018.cnblogs.com/blog/1351564/201904/1351564-20190423231239058-8382494.png)
+
 ![](http://photogz.photo.store.qq.com/psc?/V13OYKPk47gl5l/u88agf.Ae1TGJZuaUYX5TZrKulAInQQKlepO7iOpKyZGAWQPEQDQynb9XJZxBgPrRlUvnD1yV3GCFYkKRpZNCagWvtTq1v8Krn0Jh8HL2vU!/b&bo=ZwP1AQAAAAARF7A!&rf=viewer_4&t=5)
 
